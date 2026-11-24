@@ -1,0 +1,10 @@
+*.vhdx
+*.vhd
+*.iso
+*.img
+*.key
+id_ed25519*
+known_hosts
+*.log
+.DS_Store
+Thumbs.db
